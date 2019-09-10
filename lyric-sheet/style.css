@@ -1,0 +1,13 @@
+body {
+	font-size: 10pt; background-color: rgb(213,237,236);
+
+}
+div {
+	line-height: 4pt
+}
+body {
+	text-align: center; font-family: Helvetica
+}
+header {
+	font-size: 40pt; text-transform: uppercase; font-weight: bolder;
+}
