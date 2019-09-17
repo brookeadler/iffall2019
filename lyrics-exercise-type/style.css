@@ -1,0 +1,19 @@
+body {
+	font-size: 10pt; background-color: rgb(213,237,236);
+	font-family: 'Source Code Pro', monospace;
+
+}
+div {
+	line-height: 4pt
+}
+body {
+	text-align: center}
+
+header{
+	font-size: 45pt;
+	font-style: italic;
+}
+
+.verse1{
+background-color: rgb(49, 157, 235);
+}
