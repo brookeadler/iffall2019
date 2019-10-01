@@ -1,0 +1,69 @@
+head{
+
+}
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("https://wudesign.me/resources/html_tracing/images/bg.png");
+	background-position: center top;
+	min-height: 2380px;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+
+
+#header{
+	background-image: url("first.jpg");
+	height: 500px;
+	background-size: cover;
+	color: white;
+	
+
+}
+
+#second{
+	padding-top: 5px;
+	background-color: rgb(255,191,254);
+	height: 625px;
+	/*opacity: 0.5;*/
+	
+}
+
+div{
+	padding-left: 120px;
+	line-height: 19pt;
+	font-size: 14pt;
+	padding-right: 80px;
+
+}
+
+#image2{
+	width: 400px;
+	height: 300px;
+	float: right;
+	padding-right: 120px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+}
+
+
+
+h1{
+	text-align: center;
+	padding-top: 80px;
+	font-size: 57pt;
+	font-weight: bold;
+	letter-spacing: 2.5pt;
+	padding-bottom: 5px;
+	margin-bottom: 0px;
+}
+
+h2{
+	text-align: center;
+	font-size: 23pt;
+	font-weight: bold;
+	letter-spacing: 0.5pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 2px;
+}
