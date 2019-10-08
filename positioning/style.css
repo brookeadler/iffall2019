@@ -1,0 +1,32 @@
+.first{
+	float: right;
+}
+
+.second{
+	float: right;
+	position: relative;
+	top: 137px;
+}
+
+.third{
+	background-color: green;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+.fourth{
+	background-color: red;
+	position: relative;
+	left: 300px;
+	top: 400px;
+	z-index: 1;
+}
+
+.fifth{
+	background-color: black;
+	position: relative;
+	left: 310px;
+	top: 200px;
+
+}
