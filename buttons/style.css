@@ -1,0 +1,226 @@
+a#btn_apple{
+	display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: black;
+				font-family: 'Helvetica', sans-serif;
+				font-size: 30px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: 0px;
+}
+
+a#btn_apple:hover{
+	margin:auto;
+				margin-top: 100px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: grey;
+				font-family: 'Helvetica', sans-serif;
+				font-size: 30px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: 0px;
+}
+
+a#btn_ibm{
+	display: inline-block;
+	transform: scale(1);
+	margin-top: 90px;
+	padding: 8px 16px;
+	font-size: 40pt;
+	color: rgb(70,107,176);
+	text-decoration: none;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: bold;
+	background-color: rgb(214, 214, 214);
+	border-radius: 8px;
+
+}
+
+a#btn_ibm:hover{
+	box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+#image_twitter{
+	transform: scale(4);
+	color: rgb(29,161,242);
+}
+
+#image_twitter:hover{
+color: grey;}
+
+a#btn_instagram{
+	display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: black;
+				font-family: 'Helvetica', sans-serif;
+				font-size: 30px;
+				font-weight: bold;
+				text-transform: uppercase;
+				text-decoration: none;
+				letter-spacing: 0px;
+				transform: scale(2);
+}
+
+a#btn_instagram:hover{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fb83fa+0,e93cec+100;Pink+3D+%232 */
+background: rgb(251,131,250); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(251,131,250,1) 0%, rgba(233,60,236,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(251,131,250,1) 0%,rgba(233,60,236,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(251,131,250,1) 0%,rgba(233,60,236,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fb83fa', endColorstr='#e93cec',GradientType=0 ); /* IE6-9 */
+border-radius: 8px;
+}
+
+a#btn_lyft{
+	display: inline-block;
+				margin:auto;
+				margin-top: 100px;
+				padding: 8px 16px;
+				background-color: #fff;
+				color: black;
+				font-family: 'Helvetica', sans-serif;
+				font-size: 30px;
+				font-weight: bold;
+				text-transform: lowercase;
+				text-decoration: none;
+				letter-spacing: 0px;
+
+}
+
+a#btn_lyft:hover{
+	background-color: black;
+	border-radius: 8pt;
+}
+
+a#btn_npr{
+display: inline-block;
+margin:auto;
+margin-top: 20px;
+padding-bottom: 0px;
+padding-top: 90px;
+}
+
+a#btn_npr:hover{
+display: inline-block;
+margin:auto;
+margin-top: 20px;
+padding-bottom: 0px;
+padding-left: 7px;
+padding-top: 90px;	
+}
+
+
+a#btn_facebook{
+display: inline-block;
+margin:auto;
+margin-top: 40px;
+}
+
+
+a#btn_facebook:hover{
+	transform: rotate(270deg);
+	transition: 0.5s;
+}
+
+
+
+
+a#btn_sardella{
+display: inline-block;
+margin:auto;
+padding-top: 20px;
+margin-top: 50px;
+}
+
+a#btn_sardella:hover{
+	transform: scale(1.2);
+	transition: 0.3s;
+}
+
+a#btn_cartoonnetwork{
+	display: inline-block;
+	margin: auto;
+	padding-top: 20px;
+	margin-top: 40px;
+}
+
+a#btn_cartoonnetwork:hover{
+	transform: skew(-7deg);
+}
+
+a#btn_newyorker{
+	display: inline-block;
+	margin: auto;
+	padding-top: 40px;
+	margin-top: 40px;
+}
+
+a#btn_newyorker:hover{
+	transform: scale(0.8);
+}
+
+a#btn_coke{
+	display: inline-block;
+	margin: auto;
+	padding-top: 20px;
+	margin-top: 10px;
+}
+
+a#btn_coke:hover{
+	transform: rotate(30deg);
+}
+
+a#btn_nike{
+	display: inline-block;
+	margin: auto;
+	padding-top: 40px;
+	margin-top: 40px;
+}
+
+a#btn_nike:hover{
+	transform: scale(2);
+	transition:0.4s;
+}
+
+a#btn_oldnavy{
+	display: inline-block;
+	margin: auto;
+	padding-top: 40px;
+	margin-top: 30px;
+}
+
+a#btn_oldnavy:hover{
+	box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+a#btn_fitbit{
+	display: inline-block;
+	margin: auto;
+	padding-top: 40px;
+	margin-top: 40px;
+}
+
+a#btn_fitbit:hover{
+	transform: skewY(10deg);
+}
+
+a#btn_hasbro{
+	display: inline-block;
+	margin: auto;
+	padding-top: 40px;
+	margin-top: 20px;
+}
+
+a#btn_hasbro:hover{
+	transform: translate(13px);
+
+}
