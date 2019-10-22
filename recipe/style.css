@@ -1,0 +1,84 @@
+section{
+	height: 1000px;
+	width: 414px;
+}
+div{
+	width: 736px;
+	height: 414px;
+}
+img{
+	width: 736px;
+}
+
+html{
+	width: 312px;
+	height: 812px;
+}
+
+#ba{
+	width: 370px;
+	position: absolute;
+	float: left;
+	top: -20px;
+    left: -70px;
+	transform: scale(0.5);
+	z-index: 1;
+}
+
+body{
+	margin: 0px;
+}
+
+.ingredients{
+	background-color: yellow;
+	height: 800px;
+}
+
+h1{
+	font-family: futura-pt, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 35pt;
+	margin-top: 0;
+	margin-bottom: 0px;
+	padding-left: 12px;
+	background-color: yellow;
+	height: 63px;
+}
+
+div p{
+	
+	font-size: 14pt;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-family: sans-serif;
+	line-height: 19pt;
+	padding-top: 0px;
+	margin-top: 2px;
+
+}
+
+ul{
+	list-style: none;
+	font-family: sans-serif;
+	line-height: 14pt;
+
+}
+
+h2{
+	background-color: yellow;
+}
+
+
+li{
+	list-style-type: none;
+}
+
+
+hr{
+	color: yellow;
+}
+
+img div{
+	height: 420px;
+}
