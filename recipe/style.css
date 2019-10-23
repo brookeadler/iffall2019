@@ -1,27 +1,27 @@
 section{
-	height: 1000px;
-	width: 414px;
+	/*height: 1000px;
+	width: 414px;*/
 }
 div{
-	width: 736px;
-	height: 414px;
+	/*width: 736px;
+	height: 414px;*/
 }
 img{
-	width: 736px;
+	width: 100%;
 }
 
 html{
-	width: 312px;
-	height: 812px;
+	/*width: 312px;
+	height: 812px;*/
 }
 
 #ba{
 	width: 370px;
 	position: absolute;
 	float: left;
-	top: -20px;
-    left: -70px;
-	transform: scale(0.5);
+	top: -60px;
+    left: -120px;
+	transform: scale(0.3);
 	z-index: 1;
 }
 
@@ -38,7 +38,7 @@ h1{
 	font-family: futura-pt, sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 35pt;
+	font-size: 30pt;
 	margin-top: 0;
 	margin-bottom: 0px;
 	padding-left: 12px;
@@ -61,7 +61,12 @@ div p{
 ul{
 	list-style: none;
 	font-family: sans-serif;
-	line-height: 14pt;
+	line-height: 19pt;
+	padding-left: 12px;
+	padding-top: 0px;
+	font-size: 14pt;
+	margin-top: 0;
+
 
 }
 
@@ -80,5 +85,5 @@ hr{
 }
 
 img div{
-	height: 420px;
+	height: 100%;
 }
