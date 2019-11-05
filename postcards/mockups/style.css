@@ -1,0 +1,41 @@
+body{
+	font-family: helvetica;
+}
+
+img.Web{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	max-width: 40%;
+	position: relative;
+	padding: 10px;
+}
+
+img.Mobile{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	max-width: 20%;
+	padding: 10px;
+}
+
+
+
+div{
+	font-size: 20pt;
+	padding: 12px;
+}
+
+section{
+	padding-left: 50px;
+	margin-left: 100px;
+	conte
+}
+
+h1{
+	padding-left: 160px;
+}
+
+html{
+	background-color: rgb(255, 236, 171);
+}
