@@ -1,0 +1,160 @@
+a#homepage_title{
+	font-size: 50pt;
+	color: white;
+	background-color: black;
+	font-family: 'Baskervville', serif;	
+	margin: 0;
+	text-decoration: none;
+}
+
+
+body{
+	background-color: black;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+div{
+	max-width: 100%;
+	text-align: center;
+}
+
+
+div.enter{
+	background-image: url(enter.jpg);
+	max-height: 100%;
+	max-width: 100%;
+}
+
+img#image1{
+	width: 50%;
+	height: 30%;
+	padding-top: 15px;
+}
+
+
+div.EnterButton{
+	margin-top: 590px;
+	font-size: 30pt;
+	font-family: sans-serif;
+	margin-bottom: 0;
+	background-color: yellow;
+
+}
+
+img#collage{
+	width: 100%;
+	padding-top: 15px;
+}
+
+
+a:link{
+	color: white;
+}
+
+a#PersonalLifeButton{
+	font-size: 11pt;
+	color: white;
+}
+
+a#PersonalLifeButton:link{
+	color: white;
+	font-family: helvetica;
+	text-decoration: none;
+}
+
+a#PersonalLifeButton:hover{
+	font-style: italic;
+}
+
+a#PersonalLifeButton:active{
+	color: yellow;
+}
+
+
+a#FilmCareerButton{
+	font-size: 11pt;
+	color: white;
+}
+
+a#FilmCareerButton:link{
+	color: white;
+	font-family: helvetica;
+	text-decoration: none;
+}
+
+a#FilmCareerButton:hover{
+	font-style: italic;
+}
+
+a#FilmCareerButton:active{
+	color: yellow;
+}
+
+a#TheLifeAquaticButton{
+	font-size: 11pt;
+	color: white;
+}
+
+a#TheLifeAquaticButton:link{
+	color: white;
+	font-family: helvetica;
+	text-decoration: none;
+}
+
+a#TheLifeAquaticButton:hover{
+	font-style: italic;
+}
+
+a#TheLifeAquaticButton:active{
+	color: yellow;
+}
+
+a#MoonriseKingdomButton{
+	font-size: 11pt;
+	color: white;
+}
+
+a#MoonriseKingdomButton:link{
+	color: white;
+	font-family: helvetica;
+	text-decoration: none;
+}
+
+a#MoonriseKingdomButton:hover{
+	font-style: italic;
+}
+
+a#MoonriseKingdomButton:active{
+	color: yellow;
+}
+
+a#GrandBHotelButton{
+	font-size: 11pt;
+	color: white;
+}
+
+a#GrandBHotelButton:link{
+	color: white;
+	font-family: helvetica;
+	text-decoration: none;
+}
+
+a#GrandBHotelButton:hover{
+	font-style: italic;
+}
+
+a#GrandBHotelButton:active{
+	color: yellow;
+}
+
+div.buttons{
+	display: inline-block;
+}
+
+
+
+a{
+	padding-left: 10px;
+	padding-right: 10px;
+}
