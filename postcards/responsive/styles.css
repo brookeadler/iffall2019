@@ -1,0 +1,99 @@
+a {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 10;
+		}
+
+body{
+	background-position: center center; 
+}
+body#card1{
+	background-image: url(Michael.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 62%;
+}
+
+html,body{
+	height: 100%;
+	margin: 0;
+}
+
+p{
+	margin: 0;
+	font-size: 20pt;
+	font-family: input-mono, monospace;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 25pt;
+}
+
+@media (min-width: 660px){
+	body#card1{
+		background-position: center top;
+	}
+}
+
+/*div{*/
+	position: absolute;
+	top: 40%;
+	left: 5%;
+	width: 40%;
+}
+
+
+
+@media (min-width: 650px){
+	p{
+		font-size: 17pt;
+		line-height: 22pt;
+	}
+}
+
+body#card2{
+	background-image: url(Kelly.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: left -62%;
+	width: 100%;
+
+}
+
+
+@media (min-width: 639px){
+	body#card2{
+		position: absolute;
+		right: 40%;
+	}
+}
+
+body#card3{
+	background-image: url(Dwight.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: left -62%;
+
+}
+
+div.quote1{
+	padding-right: 300px;
+	padding-left: 20px;
+	padding-top: 30px;
+	font-size: 24pt;
+}
+
+p.quote2{
+	padding-left: 600px;
+	padding-top: 15px;
+}
+
+p.Season{
+	padding-left: 600pt;
+}
+
+div#card2{
+	width: 100%;
+}
